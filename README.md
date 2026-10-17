@@ -4,6 +4,5 @@ This repository contains my solutions to the HackerRank exercises assigned for t
 
 ## Repository Structure
 
-- **`README.md`**: Description of the repository and its contents.
 - **`scripts.ipynb`**: Python solutions to the completed HackerRank exercises.
 - **`pdf_submission/`**: Contains a PDF document with screenshots of my HackerRank submissions, including both successful and unsuccessful attempts.
